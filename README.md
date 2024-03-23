@@ -13,11 +13,16 @@
 - DB: AWS RDS MySQL
 
 # 구현 기능
-앱 시작 화
+앱 시작 화면
+
 ![image](https://github.com/hooniee0811/Madcamp-Second-Week/assets/67103852/616dfbd1-b6ff-4d6a-b1f2-fa770d87144e)
 
 카카오 로그인
+
 ![image](https://github.com/hooniee0811/Madcamp-Second-Week/assets/67103852/420f3d39-81db-44c3-b7fa-e15a2cb92ff3)
 
-![image](https://github.com/hooniee0811/Madcamp-Second-Week/assets/67103852/3655e5a5-81b8-4fa2-b694-b887d711bf83) ![image](https://github.com/hooniee0811/Madcamp-Second-Week/assets/67103852/acf155e6-db01-49e7-b608-3a973d926ca5)
+
+![image](https://github.com/hooniee0811/Madcamp-Second-Week/assets/67103852/3655e5a5-81b8-4fa2-b694-b887d711bf83) 
+
+![image](https://github.com/hooniee0811/Madcamp-Second-Week/assets/67103852/acf155e6-db01-49e7-b608-3a973d926ca5)
 

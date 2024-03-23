@@ -13,7 +13,7 @@
 - DB: AWS RDS MySQL
 
 # 구현 기능
-앱 시작 화면
+### 앱 시작 화면
 
 ![image](https://github.com/hooniee0811/Madcamp-Second-Week/assets/67103852/616dfbd1-b6ff-4d6a-b1f2-fa770d87144e)
 

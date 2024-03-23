@@ -36,6 +36,7 @@
 
 
 ### 게임 화면
+실시간 채팅을 통해 가장 빠르게 답을 맞힌 사람에게 점수 부여
 
 ![image](https://github.com/hooniee0811/Madcamp-Second-Week/assets/67103852/e5e3bbfb-b526-452d-88ed-6c8e3cd3751e)
 
